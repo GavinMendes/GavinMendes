@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GavinMendes
-- 👀 I’m interested in robtoics and fincance
+- 👀 I’m interested in robotics and finance
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on not sure yet 
+- 💞️ I’m looking to collaborate on... not sure yet 
 - 📫 How to reach me gavinmendes.robotics@gmail.com
 
 <!---
